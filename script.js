@@ -6,6 +6,9 @@ const dictionary = {
     "yes": "sí",
     "no": "no",
     "friend": "amigo",
+    "orange": "naranja",
+    "one": "uno",
+    "walk": "caminar",
     // Add more words as needed
 };
 
